@@ -1,0 +1,78 @@
+.head
+{
+    font-weight: bold;
+
+    position: relative;
+
+    text-align: left;
+
+    color: #fff;
+    background-color: #009879;
+}
+
+.head th
+{
+    box-sizing: border-box;
+    padding: 12px 15px;
+}
+
+.colId
+{
+    width: 50px;
+}
+.colName
+{
+    width: 220px;
+}
+.colIsActive
+{
+    width: 188px;
+}
+.colBalance
+{
+    width: 115px;
+}
+.colEmail
+{
+    width: 240px;
+}
+
+.ascSort::after
+{
+    content: '\25b4';
+}
+
+.descSort::after
+{
+    content: '\25be';
+}
+
+.descSort::after,
+.ascSort::after
+{
+    font-size: 15px;
+
+    left: 5px;
+
+    display: inline-block;
+
+    width: 11px;
+    padding-left: 5px;
+
+    color: #fff;
+}
+
+.sortBtn
+{
+    cursor: pointer;
+}
+
+.sortBtn span
+{
+    padding-right: 10px;
+}
+
+.head th select
+{
+    margin-left: 12px;
+}

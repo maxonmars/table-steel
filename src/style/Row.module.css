@@ -1,0 +1,55 @@
+.row td
+{
+    padding: 12px 15px;
+}
+
+.row
+{
+    border-bottom: 1px solid #ddd;
+}
+
+.row:nth-of-type(even)
+{
+    background-color: #f3f3f3;
+}
+
+.row:last-of-type
+{
+    border-bottom: 2px solid #009879;
+}
+
+.rowActive
+{
+    color: #009879;
+}
+
+.closedRow::before
+{
+    content: '+';
+}
+
+.openRow::before
+{
+    content: '-';
+}
+
+.closedRow::before,
+.openRow::before
+{
+    display: inline-block;
+
+    width: 11px;
+    padding-right: 5px;
+
+    color: #000;
+}
+
+.emptyRow span
+{
+    padding-left: 16px;
+}
+
+.cellName:not(.emptyRow)
+{
+    cursor: pointer;
+}
