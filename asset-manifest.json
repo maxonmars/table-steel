@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/table-steel/static/css/main.d69903f2.chunk.css",
+    "main.js": "/table-steel/static/js/main.b164b3e3.chunk.js",
+    "main.js.map": "/table-steel/static/js/main.b164b3e3.chunk.js.map",
+    "runtime-main.js": "/table-steel/static/js/runtime-main.072ead82.js",
+    "runtime-main.js.map": "/table-steel/static/js/runtime-main.072ead82.js.map",
+    "static/css/2.679831fc.chunk.css": "/table-steel/static/css/2.679831fc.chunk.css",
+    "static/js/2.cffe9cd2.chunk.js": "/table-steel/static/js/2.cffe9cd2.chunk.js",
+    "static/js/2.cffe9cd2.chunk.js.map": "/table-steel/static/js/2.cffe9cd2.chunk.js.map",
+    "static/js/3.bc59f315.chunk.js": "/table-steel/static/js/3.bc59f315.chunk.js",
+    "static/js/3.bc59f315.chunk.js.map": "/table-steel/static/js/3.bc59f315.chunk.js.map",
+    "index.html": "/table-steel/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/table-steel/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.d69903f2.chunk.css.map": "/table-steel/static/css/main.d69903f2.chunk.css.map",
+    "static/js/2.cffe9cd2.chunk.js.LICENSE.txt": "/table-steel/static/js/2.cffe9cd2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.072ead82.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.cffe9cd2.chunk.js",
+    "static/css/main.d69903f2.chunk.css",
+    "static/js/main.b164b3e3.chunk.js"
+  ]
+}
